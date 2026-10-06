@@ -155,7 +155,7 @@ My Java learning journey covering Object-Oriented Programming and programming fu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nibir-911&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nibir-911&theme=tokyonight" />
 
 </div>
 
