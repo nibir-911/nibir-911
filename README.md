@@ -8,15 +8,15 @@
 
 <br/>
 
-<a target="blank" href="https://raihan-chowdhury-nibir.netlify.app/">
+<a target="_blank" href="https://raihan-chowdhury-nibir.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00D9FF?style=for-the-badge&labelColor=0D1117" />
 </a>
 &nbsp;
-<a target="blank" href="https://www.linkedin.com/in/raihan-chowdhury-nibir">
+<a target="_blank" href="https://www.linkedin.com/in/raihan-chowdhury-nibir">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a target="blank"  href="mailto:raihanchowdhurynibir@gmail.com">
+<a target="_blank"  href="mailto:raihanchowdhurynibir@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -85,7 +85,7 @@ AI-powered student platform focused on personalized learning, quiz generation, A
 
 **Tech:** AI • Web • Student Platform
 
-<a target="blank"  href="https://github.com/nibir-911/RESNOR-AI">
+<a target="_blank"  href="https://github.com/nibir-911/RESNOR-AI">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -99,7 +99,7 @@ A modern platform designed to connect students and alumni with directories, stor
 
 **Tech:** Web • Database • UI/UX
 
-<a target="blank" href="https://github.com/nibir-911/diu-alumni-portal">
+<a target="_blank" href="https://github.com/nibir-911/diu-alumni-portal">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -113,7 +113,7 @@ A modern platform designed to connect students and alumni with directories, stor
 
 My personal portfolio showcasing my projects, skills, experience and creative work.
 
-<a target="blank" href="https://raihan-chowdhury-nibir.netlify.app/">
+<a target="_blank" href="https://raihan-chowdhury-nibir.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
@@ -125,7 +125,7 @@ My personal portfolio showcasing my projects, skills, experience and creative wo
 
 My Java learning journey covering Object-Oriented Programming and programming fundamentals.
 
-<a target="blank" href="https://github.com/nibir-911/Object-Orientation-Programming-OOP-With-Java">
+<a target="_blank" href="https://github.com/nibir-911/Object-Orientation-Programming-OOP-With-Java">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -200,19 +200,19 @@ AI / ML
 
 <div align="center">
 
-<a target="blank" href="https://raihan-chowdhury-nibir.netlify.app/">
+<a target="_blank" href="https://raihan-chowdhury-nibir.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-00D9FF?style=for-the-badge&labelColor=0D1117" />
 </a>
 
-<a target="blank"  href="https://www.linkedin.com/in/raihan-chowdhury-nibir">
+<a target="_blank"  href="https://www.linkedin.com/in/raihan-chowdhury-nibir">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a target="blank" href="https://github.com/nibir-911">
+<a target="_blank" href="https://github.com/nibir-911">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a target="blank" href="https://www.instagram.com/raihan_chowdhury_nibir/">
+<a target="_blank" href="https://www.instagram.com/raihan_chowdhury_nibir/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
